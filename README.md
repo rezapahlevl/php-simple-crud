@@ -42,10 +42,6 @@ Reza Pahlevi - [@instagram](https://instagram.com/rezapahlevl) - rezapahlevi.dev
 
 Project Link: [Here](https://github.com/rezapahlevl/php-simple-crud)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
