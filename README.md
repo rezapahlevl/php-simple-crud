@@ -18,16 +18,16 @@
 <!-- ABOUT THE PROJECT -->
 <h3>About The Project</h3>
 
-**Home**
+#### Home
 ![alt text](https://github.com/rezapahlevl/php-simple-crud/blob/main//images/Pic1.png?raw=true)
 
-Add Data
+#### Add Data
 ![alt text](https://github.com/rezapahlevl/php-simple-crud/blob/main//images/PicAdd.png?raw=true)
 
-**Detail Data**
+#### Detail Data
 ![alt text](https://github.com/rezapahlevl/php-simple-crud/blob/main//images/PicView.png?raw=true)
 
-**Edit Data**
+## Edit Data**
 ![alt text](https://github.com/rezapahlevl/php-simple-crud/blob/main//images/PicEdit.png?raw=true) 
 
 ### Built With
@@ -37,7 +37,7 @@ Add Data
 
 
 <!-- CONTACT -->
-## Contact
+### Contact
 
 Reza Pahlevi - [@instagram](https://instagram.com/rezapahlevl) - rezapahlevi.dev@gmail.com
 
